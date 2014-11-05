@@ -1,4 +1,4 @@
-calvinzhu.github.com
+CalvinBlog
 ====================
 
 Calvin's Blog
